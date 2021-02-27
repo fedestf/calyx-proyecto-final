@@ -1,0 +1,24 @@
+DEBUG : 27-02-2021 11:42:05.274 -  [<module>]- Mensaje enviado con exito a makeyourlife@hotmail.com
+DEBUG : 27-02-2021 11:42:06.326 -  [<module>]- Mensaje enviado con exito a fede520@live.com
+DEBUG : 27-02-2021 15:13:43.912 -  [<module>]- Se añadio correctamente la noticia La dramática situación por el cierre del frigorífico ArreBeef: sigue la protesta de trabajadores, hay temor por la seguridad y no se pueden retirar los animales del lugar
+DEBUG : 27-02-2021 15:13:43.914 -  [<module>]- Se añadio correctamente la noticia Reacciones críticas al aumento de 8,07% y el pago de un bono de $ 1.500 a las jubilaciones más bajas
+DEBUG : 27-02-2021 15:13:43.915 -  [<module>]- Se añadio correctamente la noticia Cuáles son los aumentos de servicios y tarifas que vienen y cómo impactarán en los salarios y la inflación
+DEBUG : 27-02-2021 15:13:43.916 -  [<module>]- Se añadio correctamente la noticia Cómo funciona el reintegro de hasta $1.000 en las compras con tarjeta de débito para jubilados y beneficiarios de AUH
+DEBUG : 27-02-2021 15:13:43.922 -  [<module>]- Se añadio correctamente la noticia Una “ciudad” al borde del Mar Argentino: las increíbles imágenes nocturnas de la depredación pesquera en el Atlántico Sur
+DEBUG : 27-02-2021 15:13:43.923 -  [<module>]- Se añadio correctamente la noticia Efecto dólar planchado: cuáles son las mejores opciones para comprar productos en el exterior sin viajar 
+DEBUG : 27-02-2021 15:13:43.924 -  [<module>]- Se añadio correctamente la noticia Cuáles son las advertencias del hombre del mercado más cercano al Gobierno sobre el dólar, la inflación y el índice de riesgo país
+DEBUG : 27-02-2021 15:13:43.925 -  [<module>]- Se añadio correctamente la noticia La semana negra de Bitcoin: los tres mazazos que hicieron retroceder 19% el valor de la criptomoneda
+DEBUG : 27-02-2021 15:13:43.926 -  [<module>]- Se añadio correctamente la noticia Honda Motors anunció una inversión de USD 5 millones en su planta de Campana
+DEBUG : 27-02-2021 15:13:43.926 -  [<module>]- Se añadio correctamente la noticia InvertirOnline designó a Lorena Malatesta como nueva gerente de Marketing y Comunicaciones
+DEBUG : 27-02-2021 15:13:43.927 -  [<module>]- Se añadio correctamente la noticia YPF y Fundación YPF acompañaron a Comodoro en su aniversario
+DEBUG : 27-02-2021 15:13:43.928 -  [<module>]- Se añadio correctamente la noticia Crece la desconfianza del campo: el 80% de los productores cree que el Gobierno aumentará las retenciones y cerrará exportaciones en el corto plazo
+DEBUG : 27-02-2021 15:13:43.929 -  [<module>]- Se añadio correctamente la noticia Cómo se construye y repara el techo de una vivienda: recomendaciones, precios y cuestiones de seguridad a tener en cuenta 
+DEBUG : 27-02-2021 15:13:43.929 -  [<module>]- Se añadio correctamente la noticia Renta financiera: cómo saber si este año hay que pagar el impuesto por las inversiones hechas en 2020
+DEBUG : 27-02-2021 15:13:43.930 -  [<module>]- Se añadio correctamente la noticia Cerraron un frigorífico líder y echaron a 1.000 empleados: acusan al sindicato de la carne
+DEBUG : 27-02-2021 15:13:43.931 -  [<module>]- Se añadio correctamente la noticia Los alimentos terminaron febrero con una suba de más de 4% y presionan sobre la inflación
+DEBUG : 27-02-2021 15:13:43.931 -  [<module>]- Se añadio correctamente la noticia Anses anunció un bono de $1.500 en abril y mayo para jubilados, que se sumará al aumento de 8,07% que se pagará a partir de marzo
+DEBUG : 27-02-2021 15:13:43.932 -  [<module>]- Se añadio correctamente la noticia El Banco Mundial le prestará a la Argentina USD 420 millones para obras en el conurbano
+DEBUG : 27-02-2021 15:13:43.933 -  [<module>]- Se añadio correctamente la noticia El Gobierno analiza una alternativa para extender la negociación con el FMI hasta después de las elecciones
+DEBUG : 27-02-2021 15:13:43.934 -  [<module>]- Se añadio correctamente la noticia El fisco volvió a suspender los embargos y las ejecuciones fiscales para las Pymes
+DEBUG : 27-02-2021 15:13:43.934 -  [<module>]- Se añadio correctamente la noticia La empresas de electricidad pidieron un aumento mayor de las tarifas para cubrir el costo del servicio
+DEBUG : 27-02-2021 15:13:43.935 -  [<module>]- Se añadio correctamente la noticia Una “ciudad” al borde del Mar Argentino: las increíbles imágenes nocturnas de la depredación pesquera en el Atlántico Sur

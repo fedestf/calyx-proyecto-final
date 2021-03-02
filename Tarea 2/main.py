@@ -6,6 +6,8 @@ from email.message import EmailMessage
 import os
 import glob
 import scrapper
+from funciones import splitter
+from datetime import date
 
 
 context = ssl.create_default_context()
@@ -18,20 +20,21 @@ lista_correo = ['fede520@live.com',
                 # 'mariano.river@live.com.ar'
                 ]
 
-archivos = [r'Tarea 2\Noticias salida\economia.txt',
-            r'Tarea 2\Noticias salida\politica.txt',
-            r'Tarea 2\Noticias salida\principal.txt']
+archivos = [r'Tarea 2\Noticias salida\economicas.txt',
+            r'Tarea 2\Noticias salida\politicas.txt',
+            r'Tarea 2\Noticias salida\principales.txt']
 
 
 destinatarios = ",".join(lista_correo)
 
-newMessage = EmailMessage()
-
-newMessage['From'] = MAIL
-newMessage['To'] = destinatarios
-newMessage['Subject'] = "Lista de noticias  de  la fecha"
 
 for archivo in archivos:
+
+    newMessage = EmailMessage()
+    newMessage['From'] = MAIL
+    newMessage['To'] = destinatarios
+    newMessage['Subject'] = f"Lista de noticias {splitter(archivo)}  del dia de hoy"
+
     try:
         with open(archivo, 'r') as file:
             file_data = file.read()
@@ -44,7 +47,8 @@ for archivo in archivos:
     with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
         try:
             server.login(MAIL, PASSWORD)
-            print("se ha logueado con exito")
+            print(
+                f"se ha enviado con exito el mail con las noticias {splitter(archivo)}")
             server.send_message(newMessage)
             logger_debug.debug(
                 f"se ha enviado correctamente el correo a {destinatarios}")

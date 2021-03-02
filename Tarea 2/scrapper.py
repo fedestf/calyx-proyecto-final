@@ -14,7 +14,7 @@ for elem in titular:
 
     sub = elem.find_all('a')
 
-    with open(r'Tarea 2\Noticias salida\principal.txt', "a") as file:
+    with open(r'Tarea 2\Noticias salida\principales.txt', "a") as file:
 
         try:
 
@@ -43,7 +43,7 @@ for elem in titular:
 
     if sub[0].get('href').startswith('/politica'):  # SI HREF EMPIEZA CON /economia
 
-        with open(r'Tarea 2\Noticias salida\politica.txt', "a") as file:
+        with open(r'Tarea 2\Noticias salida\politicas.txt', "a") as file:
 
             try:
 
@@ -72,7 +72,7 @@ for elem in titular:
 
     if sub[0].get('href').startswith('/economia'):  # SI HREF EMPIEZA CON /economia
 
-        with open(r'Tarea 2\Noticias salida\economia.txt', "a") as file:
+        with open(r'Tarea 2\Noticias salida\economicas.txt', "a") as file:
 
             try:
 

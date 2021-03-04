@@ -1,0 +1,124 @@
+{
+    "26603204": [
+        {
+            "id_seller": "00010",
+            "nombre": "PRODUCTO 10",
+            "valor": "1000000.0",
+            "cantidad": "4.5",
+            "subtotal": "4500000.0"
+        },
+        {
+            "id_seller": "00020",
+            "nombre": "PRODUCTO 20",
+            "valor": "1000000.0",
+            "cantidad": "2.5",
+            "subtotal": "2500000.0"
+        }
+    ],
+    "26603203": [
+        {
+            "id_seller": "00009",
+            "nombre": "PRODUCTO 9",
+            "valor": "1450000.0",
+            "cantidad": "4.5",
+            "subtotal": "6525000.0"
+        },
+        {
+            "id_seller": "00008",
+            "nombre": "PRODUCTO 8",
+            "valor": "1650000.0",
+            "cantidad": "3.5",
+            "subtotal": "5775000.0"
+        },
+        {
+            "id_seller": "00003",
+            "nombre": "PRODUCTO 3",
+            "valor": "90000.0",
+            "cantidad": "3.0",
+            "subtotal": "270000.0"
+        },
+        {
+            "id_seller": "00013",
+            "nombre": "PRODUCTO 13",
+            "valor": "91000.0",
+            "cantidad": "3.0",
+            "subtotal": "273000.0"
+        }
+    ],
+    "26603201": [
+        {
+            "id_seller": "00005",
+            "nombre": "PRODUCTO 5",
+            "valor": "1350000.0",
+            "cantidad": "4.5",
+            "subtotal": "6075000.0"
+        },
+        {
+            "id_seller": "00002",
+            "nombre": "PRODUCTO 2",
+            "valor": "1500000.0",
+            "cantidad": "2.0",
+            "subtotal": "3000000.0"
+        },
+        {
+            "id_seller": "00003",
+            "nombre": "PRODUCTO 3",
+            "valor": "90000.0",
+            "cantidad": "5.0",
+            "subtotal": "450000.0"
+        },
+        {
+            "id_seller": "00006",
+            "nombre": "PRODUCTO 6",
+            "valor": "1250000.0",
+            "cantidad": "1.5",
+            "subtotal": "1875000.0"
+        }
+    ],
+    "26603202": [
+        {
+            "id_seller": "00007",
+            "nombre": "PRODUCTO 7",
+            "valor": "750000.0",
+            "cantidad": "2.0",
+            "subtotal": "1500000.0"
+        },
+        {
+            "id_seller": "00010",
+            "nombre": "PRODUCTO 10",
+            "valor": "1050000.0",
+            "cantidad": "1.5",
+            "subtotal": "1575000.0"
+        }
+    ],
+    "26603200": [
+        {
+            "id_seller": "00001",
+            "nombre": "PRODUCTO 1",
+            "valor": "1420000.0",
+            "cantidad": "4.5",
+            "subtotal": "6390000.0"
+        },
+        {
+            "id_seller": "00002",
+            "nombre": "PRODUCTO 2",
+            "valor": "1500000.0",
+            "cantidad": "7.5",
+            "subtotal": "11250000.0"
+        },
+        {
+            "id_seller": "00003",
+            "nombre": "PRODUCTO 3",
+            "valor": "90000.0",
+            "cantidad": "3.0",
+            "subtotal": "270000.0"
+        },
+        {
+            "id_seller": "00004",
+            "nombre": "PRODUCTO 4",
+            "valor": "1350000.0",
+            "cantidad": "4.5",
+            "subtotal": "6075000.0"
+        }
+    ]
+}

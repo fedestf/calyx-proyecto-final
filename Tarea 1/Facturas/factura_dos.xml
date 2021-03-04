@@ -1,0 +1,105 @@
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:sts="dian:gov:co:facturaelectronica:Structures-2-1" xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2 http://docs.oasis-open.org/ubl/os-UBL-2.1/xsd/maindoc/UBL-Invoice-2.1.xsd">
+    
+    <cbc:ProfileExecutionID>1</cbc:ProfileExecutionID>
+    <cbc:ID>26603201</cbc:ID>
+    <cbc:IssueDate>2020-08-22</cbc:IssueDate>
+    <cbc:IssueTime>09:26:54-03:00</cbc:IssueTime>
+
+    <cac:InvoiceLine>
+        <cbc:ID>1</cbc:ID>
+        <cbc:InvoicedQuantity unitCode="TNE">4.500</cbc:InvoicedQuantity>
+        <cac:Item>
+            <cbc:Description>PRODUCTO 5</cbc:Description>
+            <cac:SellersItemIdentification>
+                <cbc:ID>00005</cbc:ID>
+                <cbc:ExtendedID/>
+            </cac:SellersItemIdentification>
+            <cac:AdditionalItemProperty>
+                <cbc:Name>ValorTotalItem</cbc:Name>
+                <cbc:Value>6075000</cbc:Value>
+            </cac:AdditionalItemProperty>
+            <cac:AdditionalItemProperty>
+                <cbc:Name>SubTotal</cbc:Name>
+                <cbc:Value>6075000</cbc:Value>
+            </cac:AdditionalItemProperty>
+        </cac:Item>
+        <cac:Price>
+            <cbc:UnitPrice currencyID="COP">1350000.000000</cbc:UnitPrice>
+            <cbc:BaseQuantity unitCode="TNE">4.500</cbc:BaseQuantity>
+        </cac:Price>
+    </cac:InvoiceLine>
+
+    <cac:InvoiceLine>
+        <cbc:ID>2</cbc:ID>
+        <cbc:InvoicedQuantity unitCode="TNE">2.000</cbc:InvoicedQuantity>
+        <cac:Item>
+            <cbc:Description>PRODUCTO 2</cbc:Description>
+            <cac:SellersItemIdentification>
+                <cbc:ID>00002</cbc:ID>
+                <cbc:ExtendedID/>
+            </cac:SellersItemIdentification>
+            <cac:AdditionalItemProperty>
+                <cbc:Name>ValorTotalItem</cbc:Name>
+                <cbc:Value>3000000</cbc:Value>
+            </cac:AdditionalItemProperty>
+            <cac:AdditionalItemProperty>
+                <cbc:Name>SubTotal</cbc:Name>
+                <cbc:Value>3000000</cbc:Value>
+            </cac:AdditionalItemProperty>
+        </cac:Item>
+        <cac:Price>
+            <cbc:UnitPrice currencyID="COP">1500000.000000</cbc:UnitPrice>
+            <cbc:BaseQuantity unitCode="TNE">2.000</cbc:BaseQuantity>
+        </cac:Price>
+    </cac:InvoiceLine>
+
+    <cac:InvoiceLine>
+        <cbc:ID>3</cbc:ID>
+        <cbc:InvoicedQuantity unitCode="TNE">5.000</cbc:InvoicedQuantity>
+        <cac:Item>
+            <cbc:Description>PRODUCTO 3</cbc:Description>
+            <cac:SellersItemIdentification>
+                <cbc:ID>00003</cbc:ID>
+                <cbc:ExtendedID/>
+            </cac:SellersItemIdentification>
+            <cac:AdditionalItemProperty>
+                <cbc:Name>ValorTotalItem</cbc:Name>
+                <cbc:Value>450000</cbc:Value>
+            </cac:AdditionalItemProperty>
+            <cac:AdditionalItemProperty>
+                <cbc:Name>SubTotal</cbc:Name>
+                <cbc:Value>450000</cbc:Value>
+            </cac:AdditionalItemProperty>
+        </cac:Item>
+        <cac:Price>
+            <cbc:UnitPrice currencyID="COP">90000.000000</cbc:UnitPrice>
+            <cbc:BaseQuantity unitCode="TNE">5.000</cbc:BaseQuantity>
+        </cac:Price>
+    </cac:InvoiceLine>
+
+    <cac:InvoiceLine>
+        <cbc:ID>4</cbc:ID>
+        <cbc:InvoicedQuantity unitCode="TNE">1.500</cbc:InvoicedQuantity>
+        <cac:Item>
+            <cbc:Description>PRODUCTO 6</cbc:Description>
+            <cac:SellersItemIdentification>
+                <cbc:ID>00006</cbc:ID>
+                <cbc:ExtendedID/>
+            </cac:SellersItemIdentification>
+            <cac:AdditionalItemProperty>
+                <cbc:Name>ValorTotalItem</cbc:Name>
+                <cbc:Value>1875000</cbc:Value>
+            </cac:AdditionalItemProperty>
+            <cac:AdditionalItemProperty>
+                <cbc:Name>SubTotal</cbc:Name>
+                <cbc:Value>1875000</cbc:Value>
+            </cac:AdditionalItemProperty>
+        </cac:Item>
+        <cac:Price>
+            <cbc:UnitPrice currencyID="COP">1250000.000000</cbc:UnitPrice>
+            <cbc:BaseQuantity unitCode="TNE">1.500</cbc:BaseQuantity>
+        </cac:Price>
+    </cac:InvoiceLine>
+    
+
+</Invoice>

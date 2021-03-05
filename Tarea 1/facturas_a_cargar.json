@@ -1,0 +1,40 @@
+{
+    "26603204": [],
+    "26603203": [],
+    "26603201": [],
+    "26603202": [],
+    "26603200": [
+        {
+            "fecha": "2020-08-22",
+            "id_seller": "00001",
+            "nombre": "PRODUCTO 1",
+            "valor": 1420000.0,
+            "cantidad": 4.5,
+            "subtotal": 6390000.0
+        },
+        {
+            "fecha": "2020-08-22",
+            "id_seller": "00002",
+            "nombre": "PRODUCTO 2",
+            "valor": 1500000.0,
+            "cantidad": 7.5,
+            "subtotal": 11250000.0
+        },
+        {
+            "fecha": "2020-08-22",
+            "id_seller": "00003",
+            "nombre": "PRODUCTO 3",
+            "valor": 90000.0,
+            "cantidad": 3.0,
+            "subtotal": 270000.0
+        },
+        {
+            "fecha": "2020-08-22",
+            "id_seller": "00004",
+            "nombre": "PRODUCTO 4",
+            "valor": 1350000.0,
+            "cantidad": 4.5,
+            "subtotal": 6075000.0
+        }
+    ]
+}

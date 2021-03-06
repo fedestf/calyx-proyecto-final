@@ -137,11 +137,9 @@ for key, value in dic_facturas_a_cargar.items():
         dia_factura = str(fecha_factura[0])[8::1]
         mes_factura = str(fecha_factura[0])[5:7:1]
         año_factura = str(fecha_factura[0])[0:4:1]
-
+        #
         carga_id_y_fecha(id_factura=key, dia=dia_factura,
                          mes=mes_factura, año=año_factura)
-
-        # print(key, int(dia_factura), mes_factura, año_factura)
 
         for value in dic_facturas_a_cargar[f'{id}']:
 
@@ -155,21 +153,22 @@ for key, value in dic_facturas_a_cargar.items():
                 valor), cantidad, str(subtotal))
 
             coords_agregar_item = pyautogui.locateCenterOnScreen(
-                r'Tarea 1\agregar_item.png')
+                r'Tarea 1\screenshots\agregar_item.png')
             time.sleep(1)
             pyautogui.click(*coords_agregar_item, clicks=1)
             time.sleep(1)
             coords_0_fondo_blanco = pyautogui.locateCenterOnScreen(
-                r'Tarea 1\0_fondo_blanco.png')
+                r'Tarea 1\screenshots\0_fondo_blanco.png')
             pyautogui.click(*coords_0_fondo_blanco, clicks=1)
             time.sleep(1)
 
         coords_quitar_item = pyautogui.locateCenterOnScreen(
-            r'Tarea 1\quitar_item.png')
+            r'Tarea 1\screenshots\quitar_item.png')
         time.sleep(1)
         pyautogui.click(*coords_quitar_item, clicks=1)
         time.sleep(1)
-        coords_guardar = pyautogui.locateCenterOnScreen(r'Tarea 1\guardar.png')
+        coords_guardar = pyautogui.locateCenterOnScreen(
+            r'Tarea 1\screenshots\guardar.png')
         time.sleep(1)
         pyautogui.click(*coords_guardar, clicks=1)
 

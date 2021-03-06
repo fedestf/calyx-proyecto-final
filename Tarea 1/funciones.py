@@ -165,14 +165,14 @@ def carga_id_y_fecha(id_factura, dia, mes, año):
     try:
         time.sleep(4)
         coords_icono = pyautogui.locateCenterOnScreen(
-            r'Tarea 1\sistema.png', confidence=0.9)
+            r'Tarea 1\screenshots\sistema.png', confidence=0.9)
         time.sleep(2)
 
         pyautogui.click(*coords_icono, clicks=2)
         time.sleep(2)
 
         coords_id_factura = pyautogui.locateCenterOnScreen(
-            r'Tarea 1\id_factura.png')
+            r'Tarea 1\screenshots\id_factura.png')
 
         pyautogui.click(*coords_id_factura, clicks=1)
         pyautogui.typewrite(id_factura, interval=1)
@@ -250,11 +250,11 @@ def carga_id_y_fecha(id_factura, dia, mes, año):
 
             time.sleep(0.5)
             coords_agregar_item = pyautogui.locateCenterOnScreen(
-                r'Tarea 1\agregar_item.png')
+                r'Tarea 1\screenshots\agregar_item.png')
             pyautogui.click(*coords_agregar_item, clicks=1)
 
             coords_0_fondo_azul = pyautogui.locateCenterOnScreen(
-                r'Tarea 1\0_fondo_azul.png')
+                r'Tarea 1\screenshots\0_fondo_azul.png')
             time.sleep(2)
             pyautogui.click(*coords_0_fondo_azul, clicks=1)
             time.sleep(2)
@@ -270,11 +270,11 @@ def carga_id_y_fecha(id_factura, dia, mes, año):
 
             time.sleep(0.5)
             coords_agregar_item = pyautogui.locateCenterOnScreen(
-                r'Tarea 1\agregar_item.png')
+                r'Tarea 1\screenshots\agregar_item.png')
             pyautogui.click(*coords_agregar_item, clicks=1)
 
             coords_0_fondo_azul = pyautogui.locateCenterOnScreen(
-                r'Tarea 1\0_fondo_azul.png')
+                r'Tarea 1\screenshots\0_fondo_azul.png')
             time.sleep(2)
             pyautogui.click(*coords_0_fondo_azul, clicks=1)
             time.sleep(2)
@@ -290,11 +290,11 @@ def carga_id_y_fecha(id_factura, dia, mes, año):
 
             time.sleep(0.5)
             coords_agregar_item = pyautogui.locateCenterOnScreen(
-                r'Tarea 1\agregar_item.png')
+                r'Tarea 1\screenshots\agregar_item.png')
             pyautogui.click(*coords_agregar_item, clicks=1)
 
             coords_0_fondo_azul = pyautogui.locateCenterOnScreen(
-                r'Tarea 1\0_fondo_azul.png')
+                r'Tarea 1\screenshots\0_fondo_azul.png')
             time.sleep(2)
             pyautogui.click(*coords_0_fondo_azul, clicks=1)
             time.sleep(2)

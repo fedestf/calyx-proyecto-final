@@ -1,0 +1,10 @@
+ERROR : 06-03-2021 17:12:55.094 -  [<module>]- 'charmap' codec can't encode character '\u0303' in position 12: character maps to <undefined>
+ERROR : 06-03-2021 17:15:52.474 -  [<module>]- 'charmap' codec can't encode character '\u0303' in position 12: character maps to <undefined>
+ERROR : 06-03-2021 17:17:50.621 -  [<module>]- 'charmap' codec can't encode character '\u0303' in position 12: character maps to <undefined>
+ERROR : 06-03-2021 17:20:03.865 -  [<module>]- 'charmap' codec can't encode character '\u0303' in position 12: character maps to <undefined>
+ERROR : 06-03-2021 17:30:46.838 -  [<module>]- 'charmap' codec can't encode character '\u0303' in position 12: character maps to <undefined>
+ERROR : 06-03-2021 17:31:09.235 -  [<module>]- 'charmap' codec can't encode character '\u0303' in position 12: character maps to <undefined>
+ERROR : 06-03-2021 17:31:40.808 -  [<module>]- 'charmap' codec can't encode character '\u0303' in position 12: character maps to <undefined>
+ERROR : 06-03-2021 17:32:05.740 -  [<module>]- 'charmap' codec can't encode character '\u0303' in position 12: character maps to <undefined>
+ERROR : 06-03-2021 17:33:02.145 -  [<module>]- 'charmap' codec can't encode character '\u0303' in position 12: character maps to <undefined>
+ERROR : 06-03-2021 17:58:05.034 -  [<module>]- 'charmap' codec can't encode character '\u0303' in position 12: character maps to <undefined>

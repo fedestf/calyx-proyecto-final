@@ -3,27 +3,7 @@ from settings import RUTA
 import os
 from datetime import date
 
-# logging.basicConfig(filename=r"C:\Users\fedestf\Documents\GitHub\python-rpa-calyx\Clase 6\logs.txt",
-#                     format="'%(levelname)s : %(asctime)s - %(message)s'")
-
-
-# Custom logger
-
-# Creo subdirectorio (en caso de que no exista) a partir de la ruta de logs definida en settings
-# carpeta_error = os.path.join(RUTA, "Nombre carpeta")
-
-# # Declaro la ruta  y el nombre del archivo para pasarlo al file handler
-# # Ahora mi ruta es la carpeta creada antes
-
-# ruta = os.path.join(carpeta, date.today().strftime("%d-%m-%Y")+".txt")
-
-# logger_debug.info("INFO")
-# logger_debug.debug("DEBUG")
-# logger_debug.critical("CRITICAL")
-# logger_debug.error("ERROR")
-# logger_debug.warning("WARNING")
-
-# ----------------------TEST ERROR-------------------------
+# -----------ERROR--------------
 
 carpeta_error = os.path.join(RUTA, "Error")
 
@@ -43,7 +23,7 @@ file_hand.setFormatter(format_hand)
 logger_error.addHandler(file_hand)
 
 
-# ---------------------TEST DEBUG--------------------------------------
+# -----------DEBUG--------------
 
 
 carpeta_debug = os.path.join(RUTA, "Debug")

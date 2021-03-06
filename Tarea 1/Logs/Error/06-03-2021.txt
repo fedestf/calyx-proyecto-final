@@ -1,0 +1,4 @@
+ERROR : 06-03-2021 18:05:40.417 -  [<module>]- 'charmap' codec can't encode character '\u0303' in position 12: character maps to <undefined>
+ERROR : 06-03-2021 18:08:20.502 -  [<module>]- [Errno 2] No such file or directory: 'Tarea 2\\Noticias salida\\economicas.txt'
+ERROR : 06-03-2021 18:09:45.640 -  [<module>]- 'charmap' codec can't encode character '\u0303' in position 12: character maps to <undefined>
+ERROR : 06-03-2021 18:11:08.360 -  [<module>]- 'charmap' codec can't encode character '\u0303' in position 12: character maps to <undefined>

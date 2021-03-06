@@ -1,13 +1,25 @@
 import xml.etree.ElementTree as ET
+import os
 import glob
 import json
-from funciones import pdf_to_csv, dict_from_csv, validacion_facturas_y_json_a_cargar
+import pyautogui
+from datetime import date
+import time
+import scrapper
+from funciones import splitter, pdf_to_csv, dict_from_csv, validacion_facturas_y_json_a_cargar, carga_id_y_fecha, carga_productos
+import scrapper
+import smtplib
+import ssl
+from settings import PASSWORD, MAIL, DESTINATARIOS
+from loggers import logger_debug, logger_error
+from email.message import EmailMessage
 
-# pdf_to_csv(a_convertir=r'Tarea 1\lista_precios.pdf',
-#            destino=r'Tarea 1\lista_precios.csv',
-#            paginas="all")
 
-# dict_from_csv(csv=r'Tarea 1\lista_precios.csv')
+pdf_to_csv(a_convertir=r'Tarea 1\lista_precios.pdf',
+           destino=r'Tarea 1\lista_precios.csv',
+           paginas="all")
+
+dict_from_csv(csv=r'Tarea 1\lista_precios.csv')
 
 ruta = r'Tarea 1\Facturas\*.xml'
 lista_facturas_xml = glob.glob(ruta)
@@ -114,15 +126,22 @@ dic_facturas_a_cargar = {}
 with open(r'Tarea 1\facturas_a_cargar.json') as data_file:
     dic_facturas_a_cargar = json.load(data_file)
 
+
 for key, value in dic_facturas_a_cargar.items():
 
     if value != []:
         id = key
-        fecha = [value['fecha'] for value in dic_facturas_a_cargar[f'{id}']]
-        dia = str(fecha[0])[8::1]
-        mes = str(fecha[0])[5:7:1]
-        año = str(fecha[0])[0:4:1]
-        print(key, dia, mes, año)
+
+        fecha_factura = [value['fecha']
+                         for value in dic_facturas_a_cargar[f'{id}']]
+        dia_factura = str(fecha_factura[0])[8::1]
+        mes_factura = str(fecha_factura[0])[5:7:1]
+        año_factura = str(fecha_factura[0])[0:4:1]
+
+        carga_id_y_fecha(id_factura=key, dia=dia_factura,
+                         mes=mes_factura, año=año_factura)
+
+        # print(key, int(dia_factura), mes_factura, año_factura)
 
         for value in dic_facturas_a_cargar[f'{id}']:
 
@@ -132,4 +151,81 @@ for key, value in dic_facturas_a_cargar.items():
             cantidad = str(value['cantidad']).replace('.', ',')
             subtotal = int(value['subtotal'])
 
-            print(id_seller, nombre, valor, cantidad, subtotal)
+            carga_productos(id_seller, nombre, str(
+                valor), cantidad, str(subtotal))
+
+            coords_agregar_item = pyautogui.locateCenterOnScreen(
+                r'Tarea 1\agregar_item.png')
+            time.sleep(1)
+            pyautogui.click(*coords_agregar_item, clicks=1)
+            time.sleep(1)
+            coords_0_fondo_blanco = pyautogui.locateCenterOnScreen(
+                r'Tarea 1\0_fondo_blanco.png')
+            pyautogui.click(*coords_0_fondo_blanco, clicks=1)
+            time.sleep(1)
+
+        coords_quitar_item = pyautogui.locateCenterOnScreen(
+            r'Tarea 1\quitar_item.png')
+        time.sleep(1)
+        pyautogui.click(*coords_quitar_item, clicks=1)
+        time.sleep(1)
+        coords_guardar = pyautogui.locateCenterOnScreen(r'Tarea 1\guardar.png')
+        time.sleep(1)
+        pyautogui.click(*coords_guardar, clicks=1)
+
+context = ssl.create_default_context()
+
+
+lista_correo = list(DESTINATARIOS.split(','))
+
+
+archivos = [r'Tarea 1\Noticias salida\economicas.txt',
+            r'Tarea 1\Noticias salida\politicas.txt',
+            r'Tarea 1\Noticias salida\principales.txt']
+
+
+destinatarios = ",".join(lista_correo)
+
+
+for archivo in archivos:
+
+    newMessage = EmailMessage()
+    newMessage['From'] = MAIL
+    newMessage['To'] = destinatarios
+    newMessage['Subject'] = f"Lista de noticias {splitter(archivo)}  del dia de hoy"
+
+    try:
+        with open(archivo, 'r') as file:
+            file_data = file.read()
+            logger_debug.debug(f"Archivo {archivo} leido con exito")
+    except Exception as e:
+        logger_error.error(e)
+
+    newMessage.set_content(file_data)
+
+    with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
+        try:
+            server.login(MAIL, PASSWORD)
+            print(
+                f"se ha enviado con exito el mail con las noticias {splitter(archivo)}")
+            server.send_message(newMessage)
+            logger_debug.debug(
+                f"se ha enviado correctamente el correo a {destinatarios}")
+        except Exception as e:
+            logger_error.error(e)
+
+
+# BORRAR ARCHIVOS
+
+ruta = r'Tarea 1\Noticias salida\*.txt'
+lista_txt = glob.glob(ruta)
+
+
+for txt in lista_txt:
+    if txt.endswith('.txt'):
+        try:
+            os.remove(txt)
+            logger_debug.debug(f"El archivo {txt} ha sido eliminado")
+
+        except Exception as e:
+            logger_debug.error(e)

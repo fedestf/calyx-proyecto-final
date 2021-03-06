@@ -1,6 +1,6 @@
 import smtplib
 import ssl
-from settings import PASSWORD, MAIL
+from settings import PASSWORD, MAIL, DESTINATARIOS
 from loggers import logger_debug, logger_error
 from email.message import EmailMessage
 import os
@@ -13,12 +13,8 @@ from datetime import date
 context = ssl.create_default_context()
 
 
-lista_correo = ['fede520@live.com',
-                # 'moreyrajuanse@gmail.com',
-                # 'soria.lucas.e@gmail.com',
-                # 'moreyrajuanse@gmail.com',
-                # 'mariano.river@live.com.ar'
-                ]
+lista_correo = list(DESTINATARIOS.split(','))
+
 
 archivos = [r'Tarea 2\Noticias salida\economicas.txt',
             r'Tarea 2\Noticias salida\politicas.txt',

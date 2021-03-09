@@ -1,0 +1,2 @@
+ERROR : 08-03-2021 11:58:00.982 -  [<module>]- 'charmap' codec can't encode character '\u0301' in position 66: character maps to <undefined>
+ERROR : 08-03-2021 12:10:36.461 -  [<module>]- 'charmap' codec can't encode character '\u0301' in position 66: character maps to <undefined>

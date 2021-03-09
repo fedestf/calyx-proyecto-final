@@ -1,0 +1,420 @@
+DEBUG : 08-03-2021 11:58:00.979 -  [<module>]- Se añadio correctamente la noticia El papa Francisco dijo que viajará a Argentina, Uruguay y el sur de Brasil “cuando se dé la oportunidad”
+DEBUG : 08-03-2021 11:58:00.979 -  [<module>]- Se añadio correctamente la noticia Luego de ser ratificada en el cargo, Marcela Losardo cumple con su agenda en el Ministerio de Justicia
+DEBUG : 08-03-2021 11:58:00.980 -  [<module>]- Se añadio correctamente la noticia Las lágrimas de un empresario ante el bloqueo de su fábrica: "Sáquenme esta lacra"
+DEBUG : 08-03-2021 11:58:00.980 -  [<module>]- Se añadio correctamente la noticia Fernando Esteche también se vacunó contra el coronavirus en su rol de docente universitario
+DEBUG : 08-03-2021 11:58:00.980 -  [<module>]- Se añadio correctamente la noticia UPD: atropellaron a jóvenes que realizaban el festejo del último primer día en Mar del Plata
+DEBUG : 08-03-2021 11:58:00.981 -  [<module>]- Se añadio correctamente la noticia Juntos por el Cambio pedirá la interpelación del ministro del Interior por la violencia en Formosa
+DEBUG : 08-03-2021 11:58:00.981 -  [<module>]- Se añadio correctamente la noticia Ganancias: cuánto vas a dejar de pagar por mes si se aprueban los cambios al impuesto
+DEBUG : 08-03-2021 11:58:00.981 -  [<module>]- Se añadio correctamente la noticia La presidenta de la Agencia Europea de Medicamentos aconsejó no aprobar el uso de la vacuna rusa Sputnik V
+DEBUG : 08-03-2021 11:58:00.982 -  [<module>]- Se añadio correctamente la noticia EEUU: pronostican que el desempleo caerá al 4,1% por la recuperación de la economía
+DEBUG : 08-03-2021 11:58:00.982 -  [<module>]- Se añadio correctamente la noticia Una beba de 10 meses fue internada por una intoxicación con cocaína e investigan a sus padres
+DEBUG : 08-03-2021 11:58:00.982 -  [<module>]- Se añadio correctamente la noticia La banda de Fontanet debió parar dos veces su show para pedirle al público que se comporte
+DEBUG : 08-03-2021 11:58:00.983 -  [<module>]- Se añadio correctamente la noticia Tras las protestas en Formosa, Insfrán llegó hoy a Buenos Aires para reunirse con Wado de Pedro
+DEBUG : 08-03-2021 11:58:00.983 -  [<module>]- Se añadio correctamente la noticia "Me agarraron del pelo y me arrastraron": crudo relato de una periodista sobre la represión en Formosa
+DEBUG : 08-03-2021 11:58:00.983 -  [<module>]- Se añadio correctamente la noticia Markle reveló que fue silenciada tras entrar en la familia real y que tuvo pensamientos suicidas
+DEBUG : 08-03-2021 11:58:00.983 -  [<module>]- Se añadio correctamente la noticia La duquesa de Sussex sugirió que el racismo explica por qué su hijo Archie no es príncipe
+DEBUG : 08-03-2021 11:58:00.984 -  [<module>]- Se añadio correctamente la noticia El día que Kate Middleton hizo llorar a Meghan Markle
+DEBUG : 08-03-2021 11:58:00.984 -  [<module>]- Se añadio correctamente la noticia La tristeza del príncipe Harry: alejado de William y decepcionado con Carlos
+DEBUG : 08-03-2021 11:58:00.984 -  [<module>]- Se añadio correctamente la noticia El gesto de Miguel Ángel Russo que conmovió al Toto Salvio antes de su operación
+DEBUG : 08-03-2021 11:58:00.984 -  [<module>]- Se añadio correctamente la noticia Dejó Italia para vivir con su novio argentino: "Conseguí trabajo de lo que estudié y gano $90 mil"
+DEBUG : 08-03-2021 11:58:00.984 -  [<module>]- Se añadio correctamente la noticia Escándalo en Córdoba: Los Palmeras denunciaron que fueron estafados y no fueron a un show
+DEBUG : 08-03-2021 11:58:00.985 -  [<module>]- Se añadio correctamente la noticia El aguinaldo no pagará Ganancias y en abril devolverán lo descontado entre enero y marzo
+DEBUG : 08-03-2021 11:58:00.985 -  [<module>]- Se añadio correctamente la noticia Kreplak: "No sé por qué la ciudad de Buenos Aires bajó el ritmo de vacunación, vacunas hay"
+DEBUG : 08-03-2021 11:58:00.985 -  [<module>]- Se añadio correctamente la noticia La secreta vida del Quinto Beatle: su papel clave en la historia del grupo y los temas que cambió
+DEBUG : 08-03-2021 11:58:00.986 -  [<module>]- Se añadio correctamente la noticia “Intenté ser varón, intenté ser mujer, pero no pude: uso barba y soy feliz, uso maquillaje y soy feliz”
+DEBUG : 08-03-2021 11:58:00.986 -  [<module>]- Se añadio correctamente la noticia Por qué cuidar el peso se convierte en una clave de cuidado frente al COVID-19
+DEBUG : 08-03-2021 11:58:00.986 -  [<module>]- Se añadio correctamente la noticia Vacunas COVID-19: dos expertos responden las dudas más frecuentes
+DEBUG : 08-03-2021 11:58:00.986 -  [<module>]- Se añadio correctamente la noticia Las dos primeras mujeres en ser jefas de estación de bomberos en la Ciudad: "Somos protagonistas y testigos de un cambio"
+DEBUG : 08-03-2021 11:58:00.987 -  [<module>]- Se añadio correctamente la noticia Día de la Mujer: qué se conmemora y por qué el COVID-19 ensanchó la brecha de desigualdad
+DEBUG : 08-03-2021 11:58:00.987 -  [<module>]- Se añadio correctamente la noticia Cómo impactan los índices de libertad económica en las condiciones de vida y de trabajo de las mujeres
+DEBUG : 08-03-2021 11:58:00.987 -  [<module>]- Se añadio correctamente la noticia Martha Rosenberg: "El feminismo no puede extenderse cuando adopta un criterio de gueto"
+DEBUG : 08-03-2021 11:58:00.987 -  [<module>]- Se añadio correctamente la noticia Solo en el 7% de los hogares argentinos la distribución de las tareas se comparte equitativamente
+DEBUG : 08-03-2021 11:58:00.987 -  [<module>]- Se añadio correctamente la noticia Día de la Mujer: 14 empresarias y ejecutivas que se destacan y lideran el cambio
+DEBUG : 08-03-2021 11:58:00.988 -  [<module>]- Se añadio correctamente la noticia Maestras del helado: tres mujeres “artesanas de la felicidad” en un oficio que siempre fue de hombres
+DEBUG : 08-03-2021 11:58:00.988 -  [<module>]- Se añadio correctamente la noticia Talento femenino: por qué a las mujeres todavía les cuesta tanto romper el techo de cristal
+DEBUG : 08-03-2021 11:58:00.988 -  [<module>]- Se añadio correctamente la noticia Mujeres en la gastronomía: historias de cuatro cocineras que enfrentan a los hombres
+DEBUG : 08-03-2021 11:58:00.988 -  [<module>]- Se añadio correctamente la noticia                                 Argentina contra las Violencias de Género
+DEBUG : 08-03-2021 11:58:00.989 -  [<module>]- Se añadio correctamente la noticia La lucha por la igualdad no tiene descanso
+DEBUG : 08-03-2021 11:58:00.989 -  [<module>]- Se añadio correctamente la noticia Las raíces liberales del feminismo
+DEBUG : 08-03-2021 11:58:00.989 -  [<module>]- Se añadio correctamente la noticia Independencia económica para una vida libre de violencias
+DEBUG : 08-03-2021 11:58:00.989 -  [<module>]- Se añadio correctamente la noticia Los secretos del regreso del gran ídolo Federer, quien vuelve por Wimbledon, pero ya piensa en 2022
+DEBUG : 08-03-2021 11:58:00.989 -  [<module>]- Se añadio correctamente la noticia Las confesiones del Dipy, el músico popular que pide pista y se destaca en el automovilismo 
+DEBUG : 08-03-2021 11:58:00.990 -  [<module>]- Se añadio correctamente la noticia Quién es Dan Jewett, el profesor que se casó MacKenzie Scott, ex esposa de Jeff Bezos
+DEBUG : 08-03-2021 11:58:00.990 -  [<module>]- Se añadio correctamente la noticia Chocó su cabeza con un rival en un partido de fútbol amateur, empezó a convulsionar y murió en la cancha
+DEBUG : 08-03-2021 11:58:00.990 -  [<module>]- Se añadio correctamente la noticia AFIP intima a teletrabajadores por inconsistencias en los descuentos de Ganancias
+DEBUG : 08-03-2021 11:58:00.990 -  [<module>]- Se añadio correctamente la noticia El rodillazo criminal de un luchador por el que fue descalificado y despojado del cinturón de UFC
+DEBUG : 08-03-2021 11:58:00.991 -  [<module>]- Se añadio correctamente la noticia La agroindustria exportó por USD 38.550 millones y fue el principal canal de ingreso de dólares al país
+DEBUG : 08-03-2021 11:58:00.991 -  [<module>]- Se añadio correctamente la noticia Masterchef Celebrity 2, uno de los participantes más queridos quedó afuera del certamen
+DEBUG : 08-03-2021 11:58:00.991 -  [<module>]- Se añadio correctamente la noticia Pamela Anderson se muda a Canadá y vende su mansión de Malibú por USD 15 millones
+DEBUG : 08-03-2021 11:58:00.991 -  [<module>]- Se añadio correctamente la noticia Se conocieron en su infancia y hoy terminaron su relación: la historia de amor de Fede Bal y Sofía Aldrey
+DEBUG : 08-03-2021 11:58:00.992 -  [<module>]- Se añadio correctamente la noticia Seis años sin Gerardo Sofovich: el recuerdo de un autor inolvidable del espectáculo argentino
+DEBUG : 08-03-2021 11:58:00.992 -  [<module>]- Se añadio correctamente la noticia Lo seguían de la Selección y un problema cardíaco lo sacó del fútbol: "Caí en una depresión"
+DEBUG : 08-03-2021 11:58:00.992 -  [<module>]- Se añadio correctamente la noticia Palito Ortega cumple 80 años: el changuito tucumano que torció su destino y vivió mil vidas en una vida
+DEBUG : 08-03-2021 11:58:00.992 -  [<module>]- Se añadio correctamente la noticia Un recorrido por los 10 filmes más icónicos de Palito Ortega, que marcó a varias generaciones
+DEBUG : 08-03-2021 11:58:00.992 -  [<module>]- Se añadio correctamente la noticia Se cumplen 50 años de la verdadera Pelea del Siglo: Muhammad Ali vs Joe Frazier
+DEBUG : 08-03-2021 11:58:00.993 -  [<module>]- Se añadio correctamente la noticia Formosa: Human Rights Watch alertó sobre “serias limitaciones a la libertad de expresión”
+DEBUG : 08-03-2021 11:58:00.993 -  [<module>]- Se añadio correctamente la noticia El partido de Evo Morales perdió en las principales ciudades de Bolivia en las elecciones locales
+DEBUG : 08-03-2021 11:58:00.993 -  [<module>]- Se añadio correctamente la noticia Con un show de triples, el Team LeBron le ganó el All Star Game de la NBA al equipo de Durant
+DEBUG : 08-03-2021 11:58:00.993 -  [<module>]- Se añadio correctamente la noticia Una legisladora tucumana ocupará el cargo que dejó vacante Carla Vizzotti en el Ministerio de Salud
+DEBUG : 08-03-2021 11:58:00.994 -  [<module>]- Se añadio correctamente la noticia Quiénes son Las Curie, el colectivo que visibiliza la diversidad sexual en las ciencias
+DEBUG : 08-03-2021 11:58:00.994 -  [<module>]- Se añadio correctamente la noticia Hoy habrá múltiples marchas por el 8M en distintas partes del país
+DEBUG : 08-03-2021 11:58:00.994 -  [<module>]- Se añadio correctamente la noticia 8M: el por qué de esta fecha
+DEBUG : 08-03-2021 11:58:00.994 -  [<module>]- Se añadio correctamente la noticia Por qué una educación sin sesgo de género es beneficiosa para todos los estudiantes
+DEBUG : 08-03-2021 11:58:00.994 -  [<module>]- Se añadio correctamente la noticia El desafío de incentivar vocaciones científicas y tecnológicas femeninas
+DEBUG : 08-03-2021 11:58:00.995 -  [<module>]- Se añadio correctamente la noticia Israel reabrió universidades, restaurantes y bares por su exitosa campaña de vacunación
+DEBUG : 08-03-2021 11:58:00.995 -  [<module>]- Se añadio correctamente la noticia Qué significan en realidad los porcentajes de eficacia de las vacunas
+DEBUG : 08-03-2021 11:58:00.995 -  [<module>]- Se añadio correctamente la noticia Encuesta: una mayoría de los argentinos tiene poca o ninguna confianza en el plan de vacunación del Gobierno
+DEBUG : 08-03-2021 11:58:00.995 -  [<module>]- Se añadio correctamente la noticia ¿Cómo fue que Boris Johnson acertó tanto con las vacunas contra la COVID?
+DEBUG : 08-03-2021 11:58:00.995 -  [<module>]- Se añadio correctamente la noticia Abandono escolar: el riesgo de pandemia de no volver nunca al aula
+DEBUG : 08-03-2021 11:58:00.996 -  [<module>]- Se añadio correctamente la noticia Copa de la Liga: por qué Capaldo debió recibir la tarjeta roja en el match entre Boca y Vélez
+DEBUG : 08-03-2021 11:58:00.996 -  [<module>]- Se añadio correctamente la noticia Tras ganar la Supercopa Argentina, River recibirá a Argentinos en el estadio Monumental: hora y TV
+DEBUG : 08-03-2021 11:58:00.996 -  [<module>]- Se añadio correctamente la noticia El nuevo presidente del Barcelona, Joan Laporta, habló de la continuidad de Messi en el club catalán
+DEBUG : 08-03-2021 11:58:00.997 -  [<module>]- Se añadio correctamente la noticia Deian, el hijo de Juan Sebastián Verón, debutó  en la goleada de Estudiantes a Arsenal
+DEBUG : 08-03-2021 11:58:00.997 -  [<module>]- Se añadio correctamente la noticia A tres días de haber recibido el alta, Lanata volvió a ser internado en la Fundación Favaloro
+DEBUG : 08-03-2021 11:58:00.997 -  [<module>]- Se añadio correctamente la noticia El dramático testimonio de Araceli González luego de superar el coronavirus
+DEBUG : 08-03-2021 11:58:00.997 -  [<module>]- Se añadio correctamente la noticia El romántico paseo de Justin y Hailey Bieber en París y los días de playa de Rita Ora en Sidney
+DEBUG : 08-03-2021 11:58:00.998 -  [<module>]- Se añadio correctamente la noticia La reacción de la China Suárez luego de ser criticada por usar un vestido vintage
+DEBUG : 08-03-2021 11:58:00.998 -  [<module>]- Se añadio correctamente la noticia Sofía "La Jefa" Alach: "Aprovechamos para festejar cada logro de las mujeres a lo largo de los años"
+DEBUG : 08-03-2021 11:58:00.998 -  [<module>]- Se añadio correctamente la noticia El año para olvidar del rey emérito Juan Carlos: sin asignación, exiliado y en el radar de la Justicia
+DEBUG : 08-03-2021 11:58:00.998 -  [<module>]- Se añadio correctamente la noticia Genshin Impact se convirtió en el videojuego mobile de rol más exitoso en todo el mundo
+DEBUG : 08-03-2021 11:58:00.999 -  [<module>]- Se añadio correctamente la noticia María Kodama: "Algunas mujeres son masoquistas por el tipo de hombre que eligen"
+DEBUG : 08-03-2021 11:58:00.999 -  [<module>]- Se añadio correctamente la noticia El FMI explicó otra vez cuánto vale, cómo se asigna y para qué sirve el DEG, su propia “moneda”
+DEBUG : 08-03-2021 11:58:00.999 -  [<module>]- Se añadio correctamente la noticia En las noches previas a la luna llena, las personas se acuestan más tarde y duermen menos
+DEBUG : 08-03-2021 11:58:00.999 -  [<module>]- Se añadio correctamente la noticia Editoriales feministas: lecturas en clave de género, activismo y nuevas voces  
+DEBUG : 08-03-2021 11:58:01.000 -  [<module>]- Se añadio correctamente la noticia Un libro para recomendar: "Un verdor terrible", de Benjamín Labatut
+DEBUG : 08-03-2021 11:58:01.000 -  [<module>]- Se añadio correctamente la noticia La belleza del día: "Timoclea matando al capitán de Alejandro Magno", de Elisabetta Sirani
+DEBUG : 08-03-2021 11:58:01.000 -  [<module>]- Se añadio correctamente la noticia Por segundo año consecutivo se abre la inscripción de la Diplomatura en "Estrategia en Ciberseguridad e Inteligencia en Cibercrimen"
+DEBUG : 08-03-2021 11:58:01.000 -  [<module>]- Se añadio correctamente la noticia Cuáles son los síntomas de la infección urinaria y cómo prevenirla
+DEBUG : 08-03-2021 11:58:01.001 -  [<module>]- Se añadio correctamente la noticia Análisis de Bravely Default II: aprendiendo de los grandes
+DEBUG : 08-03-2021 11:58:01.001 -  [<module>]- Se añadio correctamente la noticia Murió en un accidente de helicóptero Olivier Dassault, uno los hombres más ricos de Francia
+DEBUG : 08-03-2021 11:58:01.001 -  [<module>]- Se añadio correctamente la noticia La presidenta de la Agencia Europea de Medicamentos aconsejó no aprobar el uso de la vacuna rusa Sputnik V
+DEBUG : 08-03-2021 11:58:01.001 -  [<module>]- Se añadio correctamente la noticia Meghan Markle dijo que fue silenciada tras entrar en la familia real, y reveló que tuvo pensamientos suicidas
+DEBUG : 08-03-2021 11:58:01.002 -  [<module>]- Se añadio correctamente la noticia Las lágrimas de un empresario ante el bloqueo de su fábrica: “Sáquenme esta lacra”
+DEBUG : 08-03-2021 11:58:01.002 -  [<module>]- Se añadio correctamente la noticia Dejó Italia en plena pandemia para vivir con su novio argentino: “Conseguí trabajo de lo que estudié y gano $90 mil por mes”
+DEBUG : 08-03-2021 11:58:01.002 -  [<module>]- Se añadio correctamente la noticia El rodillazo criminal de un luchador por el que fue descalificado y despojado del cinturón de UFC
+DEBUG : 08-03-2021 11:58:01.002 -  [<module>]- Se añadio correctamente la noticia El avance de la igualdad de género en las Fuerzas Armadas 
+DEBUG : 08-03-2021 11:58:01.002 -  [<module>]- Se añadio correctamente la noticia Día de la Mujer: dejen de manipularnos
+DEBUG : 08-03-2021 11:58:01.003 -  [<module>]- Se añadio correctamente la noticia El desafío de ser madre profesional
+DEBUG : 08-03-2021 11:58:01.196 -  [<module>]- Se añadio correctamente la noticia Luego de ser ratificada en el cargo, Marcela Losardo cumple con su agenda en el Ministerio de Justicia
+DEBUG : 08-03-2021 11:58:01.197 -  [<module>]- Se añadio correctamente la noticia Juntos por el Cambio pedirá la interpelación del ministro del Interior por la violencia en Formosa y gestionará una visita de la CIDH a la provincia
+DEBUG : 08-03-2021 11:58:01.197 -  [<module>]- Se añadio correctamente la noticia Fernando Esteche también se vacunó contra el coronavirus en su condición de docente universitario
+DEBUG : 08-03-2021 11:58:01.197 -  [<module>]- Se añadio correctamente la noticia “Me agarraron del pelo y me arrastraron”: crudo relato de una periodista sobre la represión de la policía de Insfrán
+DEBUG : 08-03-2021 11:58:01.198 -  [<module>]- Se añadio correctamente la noticia Nicolás Kreplak: “No sé por qué la ciudad de Buenos Aires bajó el ritmo de vacunación, vacunas hay”
+DEBUG : 08-03-2021 11:58:01.198 -  [<module>]- Se añadio correctamente la noticia Tras las protestas y la represión en Formosa, Gildo Insfrán llegó a Buenos Aires para encontrarse con Wado de Pedro
+DEBUG : 08-03-2021 11:58:01.198 -  [<module>]- Se añadio correctamente la noticia Formosa: Human Rights Watch alertó sobre “serias limitaciones al ejercicio de la libertad de expresión”
+DEBUG : 08-03-2021 11:58:01.198 -  [<module>]- Se añadio correctamente la noticia Una legisladora tucumana ocupará el cargo que dejó vacante Carla Vizzotti en el Ministerio de Salud
+DEBUG : 08-03-2021 11:58:01.199 -  [<module>]- Se añadio correctamente la noticia Alberto Fernández sostiene a Losardo como ministra de Justicia y compartirán un acto por el Día de la Mujer
+DEBUG : 08-03-2021 11:58:01.199 -  [<module>]- Se añadio correctamente la noticia El aguinaldo no pagará Ganancias y en abril devolverán lo descontado entre enero y marzo
+DEBUG : 08-03-2021 11:58:01.199 -  [<module>]- Se añadio correctamente la noticia Encuesta: una mayoría de los argentinos tiene poca o ninguna confianza en el plan de vacunación del Gobierno
+DEBUG : 08-03-2021 11:58:01.199 -  [<module>]- Se añadio correctamente la noticia Luego de la represión policial, se realizó una nueva marcha en Formosa contra la vuelta a la fase 1 de la cuarentena
+DEBUG : 08-03-2021 11:58:01.200 -  [<module>]- Se añadio correctamente la noticia Hebe de Bonafini también apuntó contra los jueces: “No puede ser que los preparemos gratis en la Universidad para que vuelquen contra nosotros“
+DEBUG : 08-03-2021 11:58:01.200 -  [<module>]- Se añadio correctamente la noticia Gustavo Posse: “La lucha de las mujeres se expresa en su incorporación a la gestión”
+DEBUG : 08-03-2021 11:58:01.200 -  [<module>]- Se añadio correctamente la noticia La interna de la UCR: Martín Lousteau pidió por un partido al que “no le tiemble la voz a la hora de enfrentar al poder”
+DEBUG : 08-03-2021 11:58:01.200 -  [<module>]- Se añadio correctamente la noticia Cuál es la inesperada y única coincidencia política entre Alberto Fernández y Mauricio Macri 
+DEBUG : 08-03-2021 11:58:01.200 -  [<module>]- Se añadio correctamente la noticia Gildo Insfrán, ¿un dictador en democracia?
+DEBUG : 08-03-2021 11:58:01.201 -  [<module>]- Se añadio correctamente la noticia Alberto Fernández mantiene a Losardo como ministra de Justicia pese a la ofensiva política del kirchnerismo duro
+DEBUG : 08-03-2021 11:58:01.201 -  [<module>]- Se añadio correctamente la noticia Patricia Bullrich y María Eugenia Vidal, las mujeres del PRO que salen a jugar fuerte este año, pero con la mirada puesta en 2023
+DEBUG : 08-03-2021 11:58:01.460 -  [<module>]- Se añadio correctamente la noticia Ganancias: cuánto vas a dejar de pagar por mes si se aprueban los cambios al impuesto
+DEBUG : 08-03-2021 11:58:01.460 -  [<module>]- Se añadio correctamente la noticia Pronostican que el desempleo en Estados Unidos bajará al 4,1% este año por la recuperación de la economía
+DEBUG : 08-03-2021 11:58:01.460 -  [<module>]- Se añadio correctamente la noticia Vuelven a caer los bonos y el riesgo país supera los 1.600 puntos por primera vez desde el canje
+DEBUG : 08-03-2021 11:58:01.461 -  [<module>]- Se añadio correctamente la noticia 14 empresarias y ejecutivas que se destacan y lideran el cambio
+DEBUG : 08-03-2021 11:58:01.461 -  [<module>]- Se añadio correctamente la noticia Las lágrimas de un empresario ante el bloqueo de su fábrica: “Sáquenme esta lacra”
+DEBUG : 08-03-2021 11:58:01.461 -  [<module>]- Se añadio correctamente la noticia Cómo impactan los índices de libertad económica en las condiciones de vida y de trabajo de las mujeres
+DEBUG : 08-03-2021 11:58:01.461 -  [<module>]- Se añadio correctamente la noticia En el año de la pandemia, la agroindustria exportó por USD 38.550 millones y fue el principal canal de ingreso de dólares a la Argentina
+DEBUG : 08-03-2021 11:58:01.462 -  [<module>]- Se añadio correctamente la noticia El FMI decidió explicar otra vez cuánto vale, cómo se asigna y para qué sirve el DEG, su propia “moneda”
+DEBUG : 08-03-2021 11:58:01.462 -  [<module>]- Se añadio correctamente la noticia Con ocho entidades de la industria, se conformó la Mesa Nacional Vitivinícola
+DEBUG : 08-03-2021 11:58:01.462 -  [<module>]- Se añadio correctamente la noticia AA2000 anunció la reapertura de su Sala VIP en el Aeropuerto de Ezeiza
+DEBUG : 08-03-2021 11:58:01.462 -  [<module>]- Se añadio correctamente la noticia Genneia nombró a Bernardo Andrews como su nuevo CEO 
+DEBUG : 08-03-2021 11:58:01.463 -  [<module>]- Se añadio correctamente la noticia Se desaceleró el crecimiento de los depósitos ajustables por UVA y puede impactar sobre el precio del dólar
+DEBUG : 08-03-2021 11:58:01.463 -  [<module>]- Se añadio correctamente la noticia El Gobierno ajusta el sendero fiscal después del déficit máximo por la pandemia y evita pedirle pesos al Banco Central
+DEBUG : 08-03-2021 11:58:01.463 -  [<module>]- Se añadio correctamente la noticia Bill Gates y Elon Musk piensan distinto en casi todo: coronavirus, autos eléctricos, vacunas, cohetes y bitcoin
+DEBUG : 08-03-2021 11:58:01.463 -  [<module>]- Se añadio correctamente la noticia Diana Mondino: “Estamos aplastados por impuestos y gasto público ineficaz”
+DEBUG : 08-03-2021 11:58:01.464 -  [<module>]- Se añadio correctamente la noticia Las 10 lecciones que le quedaron al FMI tras la crisis argentina de 2001 y que asegura que buscará no repetir 20 años después
+DEBUG : 08-03-2021 11:58:01.464 -  [<module>]- Se añadio correctamente la noticia Vence la presentación para las deducciones de Ganancias: todo lo que hay que saber para no pagar de más a la AFIP
+DEBUG : 08-03-2021 11:58:01.464 -  [<module>]- Se añadio correctamente la noticia ¿El boom que viene?: qué inversiones se esperan para el negocio del cannabis luego de la ley que anunció el Gobierno
+DEBUG : 08-03-2021 11:58:01.464 -  [<module>]- Se añadio correctamente la noticia Tensión entre el Consejo Agroindustrial y la Mesa de Enlace: con el Gobierno en el medio, crece la grieta entre los ruralistas
+DEBUG : 08-03-2021 11:58:01.464 -  [<module>]- Se añadio correctamente la noticia Economías regionales: cómo arrancó el 2021 para una serie de producciones que explican el 70% del empleo rural de la Argentina 
+DEBUG : 08-03-2021 11:58:01.465 -  [<module>]- Se añadio correctamente la noticia El mercado cree que el canje de deuda de Guzmán fue un fiasco y ya se habla de una nueva reestructuración
+DEBUG : 08-03-2021 11:58:01.465 -  [<module>]- Se añadio correctamente la noticia Las lágrimas de un empresario ante el bloqueo de su fábrica: “Sáquenme esta lacra”
+DEBUG : 08-03-2021 11:58:03.959 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:03.964 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 11:58:03.965 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 11:58:03.969 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 11:58:03.970 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 11:58:03.971 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 11:58:03.971 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 11:58:03.976 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 11:58:03.977 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 11:58:03.977 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 11:58:03.978 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 11:58:03.982 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 11:58:03.983 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 11:58:03.988 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 11:58:03.989 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 11:58:03.989 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 11:58:03.990 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 11:58:03.996 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:03.998 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:03.999 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.001 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.002 -  [<module>]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.003 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.005 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.006 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.008 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.009 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.011 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.013 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.014 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.014 -  [<module>]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.016 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.018 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.019 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.021 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.022 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.024 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.025 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.027 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.027 -  [<module>]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.028 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.030 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.031 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.032 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.032 -  [<module>]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.032 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.032 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.032 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.032 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.032 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.042 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.042 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.042 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:58:04.042 -  [<module>]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:59:21.105 -  [carga_id_y_fecha]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 11:59:47.206 -  [carga_productos]- Carga de producto correcta
+DEBUG : 08-03-2021 12:00:17.378 -  [carga_productos]- Carga de producto correcta
+DEBUG : 08-03-2021 12:00:45.449 -  [carga_productos]- Carga de producto correcta
+DEBUG : 08-03-2021 12:01:14.971 -  [carga_productos]- Carga de producto correcta
+DEBUG : 08-03-2021 12:01:22.036 -  [<module>]- Carga de items correcta
+DEBUG : 08-03-2021 12:01:25.115 -  [correo_facturas]- Mensaje enviado con exito a fede520@live.com
+DEBUG : 08-03-2021 12:01:25.265 -  [correo_facturas]- ejecutado correctamente
+DEBUG : 08-03-2021 12:01:25.275 -  [mail_noticias]- Archivo Tarea 1\Noticias salida\economicas.txt leido con exito
+DEBUG : 08-03-2021 12:01:27.225 -  [mail_noticias]- se ha enviado correctamente el correo a fede520@live.com
+DEBUG : 08-03-2021 12:01:27.385 -  [mail_noticias]- Archivo Tarea 1\Noticias salida\politicas.txt leido con exito
+DEBUG : 08-03-2021 12:01:29.485 -  [mail_noticias]- se ha enviado correctamente el correo a fede520@live.com
+DEBUG : 08-03-2021 12:01:29.695 -  [mail_noticias]- Archivo Tarea 1\Noticias salida\principales.txt leido con exito
+DEBUG : 08-03-2021 12:01:31.826 -  [mail_noticias]- se ha enviado correctamente el correo a fede520@live.com
+DEBUG : 08-03-2021 12:01:31.976 -  [mail_noticias]- Noticias enviadas correctamente
+DEBUG : 08-03-2021 12:01:31.976 -  [mail_noticias]- El archivo Tarea 1\Noticias salida\economicas.txt ha sido eliminado
+DEBUG : 08-03-2021 12:01:31.976 -  [mail_noticias]- El archivo Tarea 1\Noticias salida\politicas.txt ha sido eliminado
+DEBUG : 08-03-2021 12:01:31.976 -  [mail_noticias]- El archivo Tarea 1\Noticias salida\principales.txt ha sido eliminado
+DEBUG : 08-03-2021 12:10:36.458 -  [<module>]- Se añadio correctamente la noticia El papa Francisco dijo que viajará a Argentina, Uruguay y el sur de Brasil “cuando se dé la oportunidad”
+DEBUG : 08-03-2021 12:10:36.459 -  [<module>]- Se añadio correctamente la noticia Luego de ser ratificada en el cargo, Marcela Losardo cumple con su agenda en el Ministerio de Justicia
+DEBUG : 08-03-2021 12:10:36.459 -  [<module>]- Se añadio correctamente la noticia Las lágrimas de un empresario ante el bloqueo de su fábrica: "Sáquenme esta lacra"
+DEBUG : 08-03-2021 12:10:36.459 -  [<module>]- Se añadio correctamente la noticia Fernando Esteche también se vacunó contra el coronavirus en su rol de docente universitario
+DEBUG : 08-03-2021 12:10:36.460 -  [<module>]- Se añadio correctamente la noticia UPD: atropellaron a jóvenes que realizaban el festejo del último primer día en Mar del Plata
+DEBUG : 08-03-2021 12:10:36.460 -  [<module>]- Se añadio correctamente la noticia Juntos por el Cambio pedirá la interpelación del ministro del Interior por la violencia en Formosa
+DEBUG : 08-03-2021 12:10:36.460 -  [<module>]- Se añadio correctamente la noticia Ganancias: cuánto vas a dejar de pagar por mes si se aprueban los cambios al impuesto
+DEBUG : 08-03-2021 12:10:36.460 -  [<module>]- Se añadio correctamente la noticia La presidenta de la Agencia Europea de Medicamentos aconsejó no aprobar el uso de la vacuna rusa Sputnik V
+DEBUG : 08-03-2021 12:10:36.461 -  [<module>]- Se añadio correctamente la noticia EEUU: pronostican que el desempleo caerá al 4,1% por la recuperación de la economía
+DEBUG : 08-03-2021 12:10:36.461 -  [<module>]- Se añadio correctamente la noticia Una beba de 10 meses fue internada por una intoxicación con cocaína e investigan a sus padres
+DEBUG : 08-03-2021 12:10:36.461 -  [<module>]- Se añadio correctamente la noticia La banda de Fontanet debió parar dos veces su show para pedirle al público que se comporte
+DEBUG : 08-03-2021 12:10:36.462 -  [<module>]- Se añadio correctamente la noticia Tras las protestas en Formosa, Insfrán llegó hoy a Buenos Aires para reunirse con Wado de Pedro
+DEBUG : 08-03-2021 12:10:36.462 -  [<module>]- Se añadio correctamente la noticia "Me agarraron del pelo y me arrastraron": crudo relato de una periodista sobre la represión en Formosa
+DEBUG : 08-03-2021 12:10:36.462 -  [<module>]- Se añadio correctamente la noticia Markle reveló que fue silenciada tras entrar en la familia real y que tuvo pensamientos suicidas
+DEBUG : 08-03-2021 12:10:36.463 -  [<module>]- Se añadio correctamente la noticia La duquesa de Sussex sugirió que el racismo explica por qué su hijo Archie no es príncipe
+DEBUG : 08-03-2021 12:10:36.463 -  [<module>]- Se añadio correctamente la noticia El día que Kate Middleton hizo llorar a Meghan Markle
+DEBUG : 08-03-2021 12:10:36.463 -  [<module>]- Se añadio correctamente la noticia La tristeza del príncipe Harry: alejado de William y decepcionado con Carlos
+DEBUG : 08-03-2021 12:10:36.463 -  [<module>]- Se añadio correctamente la noticia El gesto de Miguel Ángel Russo que conmovió al Toto Salvio antes de su operación
+DEBUG : 08-03-2021 12:10:36.464 -  [<module>]- Se añadio correctamente la noticia Dejó Italia para vivir con su novio argentino: "Conseguí trabajo de lo que estudié y gano $90 mil"
+DEBUG : 08-03-2021 12:10:36.464 -  [<module>]- Se añadio correctamente la noticia Escándalo en Córdoba: Los Palmeras denunciaron que fueron estafados y no fueron a un show
+DEBUG : 08-03-2021 12:10:36.464 -  [<module>]- Se añadio correctamente la noticia El aguinaldo no pagará Ganancias y en abril devolverán lo descontado entre enero y marzo
+DEBUG : 08-03-2021 12:10:36.464 -  [<module>]- Se añadio correctamente la noticia Kreplak: "No sé por qué la ciudad de Buenos Aires bajó el ritmo de vacunación, vacunas hay"
+DEBUG : 08-03-2021 12:10:36.464 -  [<module>]- Se añadio correctamente la noticia La secreta vida del Quinto Beatle: su papel clave en la historia del grupo y los temas que cambió
+DEBUG : 08-03-2021 12:10:36.465 -  [<module>]- Se añadio correctamente la noticia “Intenté ser varón, intenté ser mujer, pero no pude: uso barba y soy feliz, uso maquillaje y soy feliz”
+DEBUG : 08-03-2021 12:10:36.465 -  [<module>]- Se añadio correctamente la noticia Por qué cuidar el peso se convierte en una clave de cuidado frente al COVID-19
+DEBUG : 08-03-2021 12:10:36.465 -  [<module>]- Se añadio correctamente la noticia Vacunas COVID-19: dos expertos responden las dudas más frecuentes
+DEBUG : 08-03-2021 12:10:36.465 -  [<module>]- Se añadio correctamente la noticia Las dos primeras mujeres en ser jefas de estación de bomberos en la Ciudad: "Somos protagonistas y testigos de un cambio"
+DEBUG : 08-03-2021 12:10:36.466 -  [<module>]- Se añadio correctamente la noticia Día de la Mujer: qué se conmemora y por qué el COVID-19 ensanchó la brecha de desigualdad
+DEBUG : 08-03-2021 12:10:36.466 -  [<module>]- Se añadio correctamente la noticia Cómo impactan los índices de libertad económica en las condiciones de vida y de trabajo de las mujeres
+DEBUG : 08-03-2021 12:10:36.466 -  [<module>]- Se añadio correctamente la noticia Martha Rosenberg: "El feminismo no puede extenderse cuando adopta un criterio de gueto"
+DEBUG : 08-03-2021 12:10:36.466 -  [<module>]- Se añadio correctamente la noticia Solo en el 7% de los hogares argentinos la distribución de las tareas se comparte equitativamente
+DEBUG : 08-03-2021 12:10:36.466 -  [<module>]- Se añadio correctamente la noticia Día de la Mujer: 14 empresarias y ejecutivas que se destacan y lideran el cambio
+DEBUG : 08-03-2021 12:10:36.467 -  [<module>]- Se añadio correctamente la noticia Maestras del helado: tres mujeres “artesanas de la felicidad” en un oficio que siempre fue de hombres
+DEBUG : 08-03-2021 12:10:36.467 -  [<module>]- Se añadio correctamente la noticia Talento femenino: por qué a las mujeres todavía les cuesta tanto romper el techo de cristal
+DEBUG : 08-03-2021 12:10:36.467 -  [<module>]- Se añadio correctamente la noticia Mujeres en la gastronomía: historias de cuatro cocineras que enfrentan a los hombres
+DEBUG : 08-03-2021 12:10:36.467 -  [<module>]- Se añadio correctamente la noticia                                 Argentina contra las Violencias de Género
+DEBUG : 08-03-2021 12:10:36.467 -  [<module>]- Se añadio correctamente la noticia La lucha por la igualdad no tiene descanso
+DEBUG : 08-03-2021 12:10:36.468 -  [<module>]- Se añadio correctamente la noticia Las raíces liberales del feminismo
+DEBUG : 08-03-2021 12:10:36.468 -  [<module>]- Se añadio correctamente la noticia Independencia económica para una vida libre de violencias
+DEBUG : 08-03-2021 12:10:36.468 -  [<module>]- Se añadio correctamente la noticia Los secretos del regreso del gran ídolo Federer, quien vuelve por Wimbledon, pero ya piensa en 2022
+DEBUG : 08-03-2021 12:10:36.468 -  [<module>]- Se añadio correctamente la noticia Las confesiones del Dipy, el músico popular que pide pista y se destaca en el automovilismo 
+DEBUG : 08-03-2021 12:10:36.469 -  [<module>]- Se añadio correctamente la noticia Quién es Dan Jewett, el profesor que se casó MacKenzie Scott, ex esposa de Jeff Bezos
+DEBUG : 08-03-2021 12:10:36.469 -  [<module>]- Se añadio correctamente la noticia Chocó su cabeza con un rival en un partido de fútbol amateur, empezó a convulsionar y murió en la cancha
+DEBUG : 08-03-2021 12:10:36.469 -  [<module>]- Se añadio correctamente la noticia AFIP intima a teletrabajadores por inconsistencias en los descuentos de Ganancias
+DEBUG : 08-03-2021 12:10:36.469 -  [<module>]- Se añadio correctamente la noticia El rodillazo criminal de un luchador por el que fue descalificado y despojado del cinturón de UFC
+DEBUG : 08-03-2021 12:10:36.470 -  [<module>]- Se añadio correctamente la noticia La agroindustria exportó por USD 38.550 millones y fue el principal canal de ingreso de dólares al país
+DEBUG : 08-03-2021 12:10:36.470 -  [<module>]- Se añadio correctamente la noticia Masterchef Celebrity 2, uno de los participantes más queridos quedó afuera del certamen
+DEBUG : 08-03-2021 12:10:36.470 -  [<module>]- Se añadio correctamente la noticia Pamela Anderson se muda a Canadá y vende su mansión de Malibú por USD 15 millones
+DEBUG : 08-03-2021 12:10:36.470 -  [<module>]- Se añadio correctamente la noticia Se conocieron en su infancia y hoy terminaron su relación: la historia de amor de Fede Bal y Sofía Aldrey
+DEBUG : 08-03-2021 12:10:36.470 -  [<module>]- Se añadio correctamente la noticia Seis años sin Gerardo Sofovich: el recuerdo de un autor inolvidable del espectáculo argentino
+DEBUG : 08-03-2021 12:10:36.471 -  [<module>]- Se añadio correctamente la noticia Lo seguían de la Selección y un problema cardíaco lo sacó del fútbol: "Caí en una depresión"
+DEBUG : 08-03-2021 12:10:36.471 -  [<module>]- Se añadio correctamente la noticia Palito Ortega cumple 80 años: el changuito tucumano que torció su destino y vivió mil vidas en una vida
+DEBUG : 08-03-2021 12:10:36.471 -  [<module>]- Se añadio correctamente la noticia Un recorrido por los 10 filmes más icónicos de Palito Ortega, que marcó a varias generaciones
+DEBUG : 08-03-2021 12:10:36.471 -  [<module>]- Se añadio correctamente la noticia Se cumplen 50 años de la verdadera Pelea del Siglo: Muhammad Ali vs Joe Frazier
+DEBUG : 08-03-2021 12:10:36.472 -  [<module>]- Se añadio correctamente la noticia Formosa: Human Rights Watch alertó sobre “serias limitaciones a la libertad de expresión”
+DEBUG : 08-03-2021 12:10:36.472 -  [<module>]- Se añadio correctamente la noticia El partido de Evo Morales perdió en las principales ciudades de Bolivia en las elecciones locales
+DEBUG : 08-03-2021 12:10:36.472 -  [<module>]- Se añadio correctamente la noticia Con un show de triples, el Team LeBron le ganó el All Star Game de la NBA al equipo de Durant
+DEBUG : 08-03-2021 12:10:36.472 -  [<module>]- Se añadio correctamente la noticia Una legisladora tucumana ocupará el cargo que dejó vacante Carla Vizzotti en el Ministerio de Salud
+DEBUG : 08-03-2021 12:10:36.472 -  [<module>]- Se añadio correctamente la noticia Quiénes son Las Curie, el colectivo que visibiliza la diversidad sexual en las ciencias
+DEBUG : 08-03-2021 12:10:36.473 -  [<module>]- Se añadio correctamente la noticia Hoy habrá múltiples marchas por el 8M en distintas partes del país
+DEBUG : 08-03-2021 12:10:36.473 -  [<module>]- Se añadio correctamente la noticia 8M: el por qué de esta fecha
+DEBUG : 08-03-2021 12:10:36.473 -  [<module>]- Se añadio correctamente la noticia Por qué una educación sin sesgo de género es beneficiosa para todos los estudiantes
+DEBUG : 08-03-2021 12:10:36.473 -  [<module>]- Se añadio correctamente la noticia El desafío de incentivar vocaciones científicas y tecnológicas femeninas
+DEBUG : 08-03-2021 12:10:36.474 -  [<module>]- Se añadio correctamente la noticia Israel reabrió universidades, restaurantes y bares por su exitosa campaña de vacunación
+DEBUG : 08-03-2021 12:10:36.474 -  [<module>]- Se añadio correctamente la noticia Qué significan en realidad los porcentajes de eficacia de las vacunas
+DEBUG : 08-03-2021 12:10:36.474 -  [<module>]- Se añadio correctamente la noticia Encuesta: una mayoría de los argentinos tiene poca o ninguna confianza en el plan de vacunación del Gobierno
+DEBUG : 08-03-2021 12:10:36.474 -  [<module>]- Se añadio correctamente la noticia ¿Cómo fue que Boris Johnson acertó tanto con las vacunas contra la COVID?
+DEBUG : 08-03-2021 12:10:36.474 -  [<module>]- Se añadio correctamente la noticia Abandono escolar: el riesgo de pandemia de no volver nunca al aula
+DEBUG : 08-03-2021 12:10:36.475 -  [<module>]- Se añadio correctamente la noticia Copa de la Liga: por qué Capaldo debió recibir la tarjeta roja en el match entre Boca y Vélez
+DEBUG : 08-03-2021 12:10:36.475 -  [<module>]- Se añadio correctamente la noticia Tras ganar la Supercopa Argentina, River recibirá a Argentinos en el estadio Monumental: hora y TV
+DEBUG : 08-03-2021 12:10:36.475 -  [<module>]- Se añadio correctamente la noticia El nuevo presidente del Barcelona, Joan Laporta, habló de la continuidad de Messi en el club catalán
+DEBUG : 08-03-2021 12:10:36.475 -  [<module>]- Se añadio correctamente la noticia Deian, el hijo de Juan Sebastián Verón, debutó  en la goleada de Estudiantes a Arsenal
+DEBUG : 08-03-2021 12:10:36.476 -  [<module>]- Se añadio correctamente la noticia A tres días de haber recibido el alta, Lanata volvió a ser internado en la Fundación Favaloro
+DEBUG : 08-03-2021 12:10:36.476 -  [<module>]- Se añadio correctamente la noticia El dramático testimonio de Araceli González luego de superar el coronavirus
+DEBUG : 08-03-2021 12:10:36.476 -  [<module>]- Se añadio correctamente la noticia El romántico paseo de Justin y Hailey Bieber en París y los días de playa de Rita Ora en Sidney
+DEBUG : 08-03-2021 12:10:36.476 -  [<module>]- Se añadio correctamente la noticia La reacción de la China Suárez luego de ser criticada por usar un vestido vintage
+DEBUG : 08-03-2021 12:10:36.476 -  [<module>]- Se añadio correctamente la noticia Sofía "La Jefa" Alach: "Aprovechamos para festejar cada logro de las mujeres a lo largo de los años"
+DEBUG : 08-03-2021 12:10:36.477 -  [<module>]- Se añadio correctamente la noticia El año para olvidar del rey emérito Juan Carlos: sin asignación, exiliado y en el radar de la Justicia
+DEBUG : 08-03-2021 12:10:36.477 -  [<module>]- Se añadio correctamente la noticia Genshin Impact se convirtió en el videojuego mobile de rol más exitoso en todo el mundo
+DEBUG : 08-03-2021 12:10:36.477 -  [<module>]- Se añadio correctamente la noticia María Kodama: "Algunas mujeres son masoquistas por el tipo de hombre que eligen"
+DEBUG : 08-03-2021 12:10:36.477 -  [<module>]- Se añadio correctamente la noticia El FMI explicó otra vez cuánto vale, cómo se asigna y para qué sirve el DEG, su propia “moneda”
+DEBUG : 08-03-2021 12:10:36.477 -  [<module>]- Se añadio correctamente la noticia En las noches previas a la luna llena, las personas se acuestan más tarde y duermen menos
+DEBUG : 08-03-2021 12:10:36.478 -  [<module>]- Se añadio correctamente la noticia Editoriales feministas: lecturas en clave de género, activismo y nuevas voces  
+DEBUG : 08-03-2021 12:10:36.478 -  [<module>]- Se añadio correctamente la noticia Un libro para recomendar: "Un verdor terrible", de Benjamín Labatut
+DEBUG : 08-03-2021 12:10:36.478 -  [<module>]- Se añadio correctamente la noticia La belleza del día: "Timoclea matando al capitán de Alejandro Magno", de Elisabetta Sirani
+DEBUG : 08-03-2021 12:10:36.478 -  [<module>]- Se añadio correctamente la noticia Por segundo año consecutivo se abre la inscripción de la Diplomatura en "Estrategia en Ciberseguridad e Inteligencia en Cibercrimen"
+DEBUG : 08-03-2021 12:10:36.479 -  [<module>]- Se añadio correctamente la noticia Cuáles son los síntomas de la infección urinaria y cómo prevenirla
+DEBUG : 08-03-2021 12:10:36.479 -  [<module>]- Se añadio correctamente la noticia Análisis de Bravely Default II: aprendiendo de los grandes
+DEBUG : 08-03-2021 12:10:36.479 -  [<module>]- Se añadio correctamente la noticia Murió en un accidente de helicóptero Olivier Dassault, uno los hombres más ricos de Francia
+DEBUG : 08-03-2021 12:10:36.479 -  [<module>]- Se añadio correctamente la noticia La presidenta de la Agencia Europea de Medicamentos aconsejó no aprobar el uso de la vacuna rusa Sputnik V
+DEBUG : 08-03-2021 12:10:36.480 -  [<module>]- Se añadio correctamente la noticia Las lágrimas de un empresario ante el bloqueo de su fábrica: “Sáquenme esta lacra”
+DEBUG : 08-03-2021 12:10:36.480 -  [<module>]- Se añadio correctamente la noticia Meghan Markle dijo que fue silenciada tras entrar en la familia real, y reveló que tuvo pensamientos suicidas
+DEBUG : 08-03-2021 12:10:36.480 -  [<module>]- Se añadio correctamente la noticia Dejó Italia en plena pandemia para vivir con su novio argentino: “Conseguí trabajo de lo que estudié y gano $90 mil por mes”
+DEBUG : 08-03-2021 12:10:36.480 -  [<module>]- Se añadio correctamente la noticia #UPD: atropellaron a jóvenes que realizaban el festejo del último primer día en Mar del Plata
+DEBUG : 08-03-2021 12:10:36.480 -  [<module>]- Se añadio correctamente la noticia El avance de la igualdad de género en las Fuerzas Armadas 
+DEBUG : 08-03-2021 12:10:36.481 -  [<module>]- Se añadio correctamente la noticia Día de la Mujer: dejen de manipularnos
+DEBUG : 08-03-2021 12:10:36.481 -  [<module>]- Se añadio correctamente la noticia El desafío de ser madre profesional
+DEBUG : 08-03-2021 12:10:36.582 -  [<module>]- Se añadio correctamente la noticia Luego de ser ratificada en el cargo, Marcela Losardo cumple con su agenda en el Ministerio de Justicia
+DEBUG : 08-03-2021 12:10:36.582 -  [<module>]- Se añadio correctamente la noticia Juntos por el Cambio pedirá la interpelación del ministro del Interior por la violencia en Formosa y gestionará una visita de la CIDH a la provincia
+DEBUG : 08-03-2021 12:10:36.583 -  [<module>]- Se añadio correctamente la noticia Fernando Esteche también se vacunó contra el coronavirus en su condición de docente universitario
+DEBUG : 08-03-2021 12:10:36.583 -  [<module>]- Se añadio correctamente la noticia “Me agarraron del pelo y me arrastraron”: crudo relato de una periodista sobre la represión de la policía de Insfrán
+DEBUG : 08-03-2021 12:10:36.583 -  [<module>]- Se añadio correctamente la noticia Nicolás Kreplak: “No sé por qué la ciudad de Buenos Aires bajó el ritmo de vacunación, vacunas hay”
+DEBUG : 08-03-2021 12:10:36.584 -  [<module>]- Se añadio correctamente la noticia Tras las protestas y la represión en Formosa, Gildo Insfrán llegó a Buenos Aires para encontrarse con Wado de Pedro
+DEBUG : 08-03-2021 12:10:36.584 -  [<module>]- Se añadio correctamente la noticia Formosa: Human Rights Watch alertó sobre “serias limitaciones al ejercicio de la libertad de expresión”
+DEBUG : 08-03-2021 12:10:36.584 -  [<module>]- Se añadio correctamente la noticia Una legisladora tucumana ocupará el cargo que dejó vacante Carla Vizzotti en el Ministerio de Salud
+DEBUG : 08-03-2021 12:10:36.584 -  [<module>]- Se añadio correctamente la noticia Alberto Fernández sostiene a Losardo como ministra de Justicia y compartirán un acto por el Día de la Mujer
+DEBUG : 08-03-2021 12:10:36.585 -  [<module>]- Se añadio correctamente la noticia El aguinaldo no pagará Ganancias y en abril devolverán lo descontado entre enero y marzo
+DEBUG : 08-03-2021 12:10:36.585 -  [<module>]- Se añadio correctamente la noticia Encuesta: una mayoría de los argentinos tiene poca o ninguna confianza en el plan de vacunación del Gobierno
+DEBUG : 08-03-2021 12:10:36.585 -  [<module>]- Se añadio correctamente la noticia Luego de la represión policial, se realizó una nueva marcha en Formosa contra la vuelta a la fase 1 de la cuarentena
+DEBUG : 08-03-2021 12:10:36.585 -  [<module>]- Se añadio correctamente la noticia Hebe de Bonafini también apuntó contra los jueces: “No puede ser que los preparemos gratis en la Universidad para que vuelquen contra nosotros“
+DEBUG : 08-03-2021 12:10:36.586 -  [<module>]- Se añadio correctamente la noticia Gustavo Posse: “La lucha de las mujeres se expresa en su incorporación a la gestión”
+DEBUG : 08-03-2021 12:10:36.586 -  [<module>]- Se añadio correctamente la noticia La interna de la UCR: Martín Lousteau pidió por un partido al que “no le tiemble la voz a la hora de enfrentar al poder”
+DEBUG : 08-03-2021 12:10:36.586 -  [<module>]- Se añadio correctamente la noticia Cuál es la inesperada y única coincidencia política entre Alberto Fernández y Mauricio Macri 
+DEBUG : 08-03-2021 12:10:36.587 -  [<module>]- Se añadio correctamente la noticia Gildo Insfrán, ¿un dictador en democracia?
+DEBUG : 08-03-2021 12:10:36.587 -  [<module>]- Se añadio correctamente la noticia Alberto Fernández mantiene a Losardo como ministra de Justicia pese a la ofensiva política del kirchnerismo duro
+DEBUG : 08-03-2021 12:10:36.587 -  [<module>]- Se añadio correctamente la noticia Patricia Bullrich y María Eugenia Vidal, las mujeres del PRO que salen a jugar fuerte este año, pero con la mirada puesta en 2023
+DEBUG : 08-03-2021 12:10:36.766 -  [<module>]- Se añadio correctamente la noticia Ganancias: cuánto vas a dejar de pagar por mes si se aprueban los cambios al impuesto
+DEBUG : 08-03-2021 12:10:36.766 -  [<module>]- Se añadio correctamente la noticia Pronostican que el desempleo en Estados Unidos bajará al 4,1% este año por la recuperación de la economía
+DEBUG : 08-03-2021 12:10:36.766 -  [<module>]- Se añadio correctamente la noticia Vuelven a caer los bonos y el riesgo país supera los 1.600 puntos por primera vez desde el canje
+DEBUG : 08-03-2021 12:10:36.767 -  [<module>]- Se añadio correctamente la noticia 14 empresarias y ejecutivas que se destacan y lideran el cambio
+DEBUG : 08-03-2021 12:10:36.767 -  [<module>]- Se añadio correctamente la noticia Las lágrimas de un empresario ante el bloqueo de su fábrica: “Sáquenme esta lacra”
+DEBUG : 08-03-2021 12:10:36.767 -  [<module>]- Se añadio correctamente la noticia Cómo impactan los índices de libertad económica en las condiciones de vida y de trabajo de las mujeres
+DEBUG : 08-03-2021 12:10:36.768 -  [<module>]- Se añadio correctamente la noticia En el año de la pandemia, la agroindustria exportó por USD 38.550 millones y fue el principal canal de ingreso de dólares a la Argentina
+DEBUG : 08-03-2021 12:10:36.768 -  [<module>]- Se añadio correctamente la noticia El FMI decidió explicar otra vez cuánto vale, cómo se asigna y para qué sirve el DEG, su propia “moneda”
+DEBUG : 08-03-2021 12:10:36.768 -  [<module>]- Se añadio correctamente la noticia Con ocho entidades de la industria, se conformó la Mesa Nacional Vitivinícola
+DEBUG : 08-03-2021 12:10:36.768 -  [<module>]- Se añadio correctamente la noticia AA2000 anunció la reapertura de su Sala VIP en el Aeropuerto de Ezeiza
+DEBUG : 08-03-2021 12:10:36.769 -  [<module>]- Se añadio correctamente la noticia Genneia nombró a Bernardo Andrews como su nuevo CEO 
+DEBUG : 08-03-2021 12:10:36.769 -  [<module>]- Se añadio correctamente la noticia Se desaceleró el crecimiento de los depósitos ajustables por UVA y puede impactar sobre el precio del dólar
+DEBUG : 08-03-2021 12:10:36.769 -  [<module>]- Se añadio correctamente la noticia El Gobierno ajusta el sendero fiscal después del déficit máximo por la pandemia y evita pedirle pesos al Banco Central
+DEBUG : 08-03-2021 12:10:36.769 -  [<module>]- Se añadio correctamente la noticia El Gobierno ante el desafío del gas: aumentar en $ 56.087 millones los subsidios o subir entre 26 y 35% las tarifas a usuarios de bajo consumo
+DEBUG : 08-03-2021 12:10:36.770 -  [<module>]- Se añadio correctamente la noticia El Gobierno ante el desafío del gas: aumentar en $ 56.087 millones los subsidios o subir entre 26 y 35% las tarifas a usuarios de bajo consumo
+DEBUG : 08-03-2021 12:10:36.770 -  [<module>]- Se añadio correctamente la noticia Bill Gates y Elon Musk piensan distinto en casi todo: coronavirus, autos eléctricos, vacunas, cohetes y bitcoin
+DEBUG : 08-03-2021 12:10:36.770 -  [<module>]- Se añadio correctamente la noticia Diana Mondino: “Estamos aplastados por impuestos y gasto público ineficaz”
+DEBUG : 08-03-2021 12:10:36.770 -  [<module>]- Se añadio correctamente la noticia Ahora 12 con menos rubros y segmentación: los cambios que prepara el Gobierno para el nuevo programa a partir de abril
+DEBUG : 08-03-2021 12:10:36.770 -  [<module>]- Se añadio correctamente la noticia Ahora 12 con menos rubros y segmentación: los cambios que prepara el Gobierno para el nuevo programa a partir de abril
+DEBUG : 08-03-2021 12:10:36.771 -  [<module>]- Se añadio correctamente la noticia ¿El boom que viene?: qué inversiones se esperan para el negocio del cannabis luego de la ley que anunció el Gobierno
+DEBUG : 08-03-2021 12:10:36.771 -  [<module>]- Se añadio correctamente la noticia Tensión entre el Consejo Agroindustrial y la Mesa de Enlace: con el Gobierno en el medio, crece la grieta entre los ruralistas
+DEBUG : 08-03-2021 12:10:36.771 -  [<module>]- Se añadio correctamente la noticia Las lágrimas de un empresario ante el bloqueo de su fábrica: “Sáquenme esta lacra”
+DEBUG : 08-03-2021 12:10:38.067 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.067 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 12:10:38.067 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 12:10:38.067 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 12:10:38.067 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 12:10:38.067 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 12:10:38.067 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 12:10:38.067 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 12:10:38.067 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 12:10:38.077 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 12:10:38.077 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 12:10:38.077 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 12:10:38.077 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 12:10:38.077 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 12:10:38.077 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 12:10:38.077 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 12:10:38.077 -  [<module>]- facturas exportadas a json correctamente
+DEBUG : 08-03-2021 12:10:38.077 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.077 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.087 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.087 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.087 -  [<module>]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.087 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.087 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.087 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.087 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.097 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.097 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.097 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.097 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.097 -  [<module>]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.097 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.097 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.107 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.107 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.107 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.107 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.107 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.107 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.107 -  [<module>]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.117 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.117 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.117 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.117 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.117 -  [<module>]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.117 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.117 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.117 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.127 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.127 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.127 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.127 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.127 -  [dict_from_csv]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:10:38.127 -  [<module>]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:11:58.173 -  [carga_id_y_fecha]- Funcion ejecutada correctamente
+DEBUG : 08-03-2021 12:12:24.283 -  [carga_productos]- Carga de producto correcta
+DEBUG : 08-03-2021 12:12:54.405 -  [carga_productos]- Carga de producto correcta
+DEBUG : 08-03-2021 12:13:22.556 -  [carga_productos]- Carga de producto correcta
+DEBUG : 08-03-2021 12:13:52.169 -  [carga_productos]- Carga de producto correcta
+DEBUG : 08-03-2021 12:13:59.188 -  [<module>]- Carga de items correcta
+DEBUG : 08-03-2021 12:14:01.449 -  [correo_facturas]- Mensaje enviado con exito a fede520@live.com
+DEBUG : 08-03-2021 12:14:01.598 -  [correo_facturas]- ejecutado correctamente
+DEBUG : 08-03-2021 12:14:01.608 -  [mail_noticias]- Archivo Tarea 1\Noticias salida\economicas.txt leido con exito
+DEBUG : 08-03-2021 12:14:03.526 -  [mail_noticias]- se ha enviado correctamente el correo a fede520@live.com
+DEBUG : 08-03-2021 12:14:03.686 -  [mail_noticias]- Archivo Tarea 1\Noticias salida\politicas.txt leido con exito
+DEBUG : 08-03-2021 12:14:05.466 -  [mail_noticias]- se ha enviado correctamente el correo a fede520@live.com
+DEBUG : 08-03-2021 12:14:05.626 -  [mail_noticias]- Archivo Tarea 1\Noticias salida\principales.txt leido con exito
+DEBUG : 08-03-2021 12:14:07.636 -  [mail_noticias]- se ha enviado correctamente el correo a fede520@live.com
+DEBUG : 08-03-2021 12:14:07.796 -  [mail_noticias]- Noticias enviadas correctamente
+DEBUG : 08-03-2021 12:14:07.796 -  [mail_noticias]- El archivo Tarea 1\Noticias salida\economicas.txt ha sido eliminado
+DEBUG : 08-03-2021 12:14:07.796 -  [mail_noticias]- El archivo Tarea 1\Noticias salida\politicas.txt ha sido eliminado
+DEBUG : 08-03-2021 12:14:07.796 -  [mail_noticias]- El archivo Tarea 1\Noticias salida\principales.txt ha sido eliminado

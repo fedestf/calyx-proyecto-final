@@ -82,7 +82,7 @@ def carga_id_y_fecha(id_factura, dia, mes, año):
         pyautogui.write(CALYX_INVOICES_PATH, interval=0.50)
         time.sleep(2)
         pyautogui.press('enter')
-        time.sleep(2)
+        time.sleep(3)
         coords_id_factura = pyautogui.locateCenterOnScreen(
             r'Tarea 1\screenshots\id_factura.png')
 

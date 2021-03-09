@@ -4,6 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
+from loggers import logger_debug, logger_error
 
 # La compra debe contener: 5 iPhone, 2 MacBook Pro, 1 MacBook Air y 3 iPods
 # clásicos.
